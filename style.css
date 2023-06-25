@@ -1,0 +1,24 @@
+.contain{
+    text-align: center;
+    list-style-type: none;
+}
+
+#gameboard{
+    display: flex;
+    justify-content: center;
+}
+
+td{
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    background-image: url(https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7801969/cherry-petals-clipart-md.png)
+}
+
+.emoji{
+    font-size: 100px;
+}
+
+
